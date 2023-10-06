@@ -11,7 +11,7 @@ This Repository consists of every Algorithms that I have learned/practiced. You 
 - Thank you to all those who helped me directly or indirectly.  
 
 
-## Authors
+## Author
 
 - [@ashim-nepal](https://www.github.com/ashim-nepal)
 
