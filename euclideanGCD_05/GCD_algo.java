@@ -2,6 +2,7 @@ package euclideanGCD_05;
 import java.lang.*;
 import java.util.*;
 /*
+*
  * Euclidean Algorithm
  * By Ashim Nepal
  */
