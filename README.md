@@ -1,7 +1,7 @@
 ## Basic Algorithms
 # 
 
-This Repository consists of every Algorithms that I have learned/practiced. You are Free to take and use these projects as per your understanding need. Enjoy your tour to my Algorithm Field🌾! 
+This Repository consists of every Algorithms that I have learned/practiced. You are Free to take and use these projects as per your understanding need. Enjoy your tour to my Algorithm Field🌾!!
 
 
 ## Acknowledgements
