@@ -4,6 +4,7 @@ import java.util.*;
 /*
  * Euclidean Algorithm
  * By Ashim Nepal
+ *
  */
 
 public class GCD_algo {
