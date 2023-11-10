@@ -19,7 +19,7 @@ This Repository consists of every Algorithms that I have learned/practiced. You 
 
 #### What does this repository consist of?
 
-This repo is full of different kinds of Algorithms I have learned/practiced. Projects may vary from being simple to advanced.
+This repo is full of different kinds of Algorithms I have learned/practiced. Projects may vary from being simple to advanced. Initial projests are all basic.
 
 
 #### What programming language is used for Algorithm?
