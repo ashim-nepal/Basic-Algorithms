@@ -2,9 +2,7 @@ from collections import defaultdict
 
 #Creating a new class named Graph
 class Graph:
-    #
     # Constructor
-    #
     def __init__(self):
         self.graph=defaultdict(list)
     #
