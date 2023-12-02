@@ -1,10 +1,8 @@
 package Binary_Search_01;
 
 /**
-*
  *Ashim Nepal
  * 01. Binary Search Algorithm! 
- *
  */
 public class Binary_Search {
 	
