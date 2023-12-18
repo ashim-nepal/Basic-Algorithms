@@ -4,10 +4,8 @@
 - Euler's Totient Function
 - Ashim Nepal
 '''
-#
 # We will be using Euclidean GCD algorithm too
 # I had done it Euclidean GCD previously in java and it is what it looks in python
-#
 def gcd(a,b):
     if (a==0):
         return b
