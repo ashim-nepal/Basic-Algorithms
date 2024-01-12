@@ -5,9 +5,7 @@ class Graph:
     # Constructor
     def __init__(self):
         self.graph=defaultdict(list)
-    #
     # Function to add an edge to graph
-    #
 
     def addEdge(self,u,v):
         self.graph[u].append(v)
