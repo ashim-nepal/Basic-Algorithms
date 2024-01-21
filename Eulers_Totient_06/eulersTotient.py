@@ -1,5 +1,6 @@
 # A simple Python code to calculate
 # Euler's Totient Function
+#
 '''
 - Euler's Totient Function
 - Ashim Nepal
