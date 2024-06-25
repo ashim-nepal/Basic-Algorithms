@@ -2,7 +2,6 @@ package Dijkstras_algo_03;
 
 
 /**
-*
  * Required imports
  */
 import java.util.*;
@@ -69,7 +68,6 @@ class Dijkstras_03 {
 		t.dijkstra(graph, 0); 
 	}
 		
-		
 	}
 
 	
@@ -118,6 +116,7 @@ class Dijkstras_03 {
 	        for (int i = 0; i < V; i++) {
 	            dist[i] = Integer.MAX_VALUE;
 	            sptSet[i] = false;
+			
 	        }
 	 
 	        // Distance of source vertex from itself is always 0
